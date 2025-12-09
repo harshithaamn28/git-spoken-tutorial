@@ -1,1 +1,2 @@
 This is my Git assignment.
+Adding new content to test checkout.
