@@ -1,3 +1,5 @@
 This is my Git assignment.
 Adding new content to test checkout.
 Content added in chapter-two branch
+Third stash change
+New line added
